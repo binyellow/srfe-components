@@ -1,6 +1,6 @@
 {
   "name": "test-sr-utils",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "",
   "main": "lib/index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   "dependencies": {
     "@babel/runtime": "^7.16.5",
     "moment": "^2.29.1",
-    "test-sr-constants": "^2.0.5"
+    "test-sr-constants": "^2.0.6"
   },
   "devDependencies": {
     "np": "^7.6.0"
