@@ -1,4 +1,4 @@
-import { DEFAULT_DATETIME_FORMAT } from '@tencent/sr-constants/lib/time';
+import { DEFAULT_DATETIME_FORMAT } from 'test-sr-constants/lib/time/time';
 import moment from 'moment';
 
 /**
