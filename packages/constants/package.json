@@ -1,6 +1,6 @@
 {
-  "name": "@tencent/sr-constants",
-  "version": "2.0.1",
+  "name": "test-sr-constants",
+  "version": "2.0.0",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://git.woa.com/branhuang/components.git"
+    "url": "git+https://github.com/binyellow/srfe-components.git"
   },
   "files": [
     "es",
@@ -28,6 +28,6 @@
     "README.md"
   ],
   "publishConfig": {
-    "registry": "http://mirrors.tencent.com/npm/"
+    "registry": "https://registry.npmjs.org/"
   }
 }
