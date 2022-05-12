@@ -10,6 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "main": "lib/index.js",
   "dependencies": {
     "@babel/runtime": "^7.16.5"
   },
