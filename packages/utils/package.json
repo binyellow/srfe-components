@@ -12,8 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "@babel/runtime": "^7.16.5",
-    "test-sr-constants": "^0.0.1",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "test-sr-constants": "^0.0.1"
   },
   "devDependencies": {
     "np": "^7.6.0"
