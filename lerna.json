@@ -1,0 +1,6 @@
+{
+  "packages": ["packages/*"],
+  "npmClient": "tnpm",
+  "registry": "http://mirrors.tencent.com/npm/",
+  "version": "independent"
+}

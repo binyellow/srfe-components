@@ -1,0 +1,33 @@
+{
+  "name": "@tencent/sr-constants",
+  "version": "1.0.3",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "father build",
+    "np": "npx np --no-tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.16.5"
+  },
+  "devDependencies": {
+    "father-build": "1.20.4",
+    "np": "^7.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://git.woa.com/branhuang/components.git"
+  },
+  "files": [
+    "es",
+    "lib",
+    "package.json",
+    "README.md"
+  ],
+  "publishConfig": {
+    "registry": "http://mirrors.tencent.com/npm/"
+  }
+}

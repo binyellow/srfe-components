@@ -1,0 +1,21 @@
+{
+  "name": "sr-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "father build",
+    "np": "npx np --no-tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/runtime": "^7.16.5",
+    "@tencent/sr-constants": "^1.0.1",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "np": "^7.6.0"
+  }
+}
